@@ -1,0 +1,1 @@
+document.write("Estoy realizando el curso de JavaScript, espero aprender mucho");
